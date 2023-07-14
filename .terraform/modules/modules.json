@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"alertmodule","Source":"git::https://github.com/sachinnegi001/alert_module_approach.git","Dir":".terraform/modules/alertmodule"}]}
